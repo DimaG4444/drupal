@@ -1,0 +1,32 @@
+І. HTML & CSS
+1. Так.
+2. _.
+3. _.
+
+III. PHP
+1. Так.
+2. $;
+3. a, с; 
+4. a <=> b;
+5. _;
+6.<?php 
+function r_array($input){ 
+$result = count($input); 
+$ar = array(); 
+for($i = 0; $i < $result; $i++){ 
+$k=$input[i]*$result; 
+$ar[i] = $k; 
+} 
+return $ar; 
+} 
+?>
+
+IV. SQL
+1. Так. Microsoft Access, MySQL.
+2 - ;
+
+
+VI. Середовище розробки.
+1. Ні.
+2. Windows 7.
+3. Працював з GIT. 
